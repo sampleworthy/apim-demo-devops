@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "service_apim_demo_devops_name": {
-            "value": null
+            "value": "apim-testing"
         }
     }
 }
